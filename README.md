@@ -84,7 +84,7 @@ flutter pub run build_runner build --delete-conflicting-outputs
 
 ## Навигация
 
-Реализована через `go_router` — маршруты настроены в `main.dart` (предположительно).
+Реализована через `go_router` — маршруты настроены в `main.dart`.
 
 ## Авторизация
 
